@@ -5,7 +5,7 @@ library(dplyr)
 ### READ IN DATA ###
 
 data_all_with0 <- read.csv(
-  "C:/Users/4243692/OneDrive - Universiteit Utrecht/FPL_prediction/dfFPL_withSlow.csv"
+  "C:/dfFPL_withSlow.csv"
   )
 
 
