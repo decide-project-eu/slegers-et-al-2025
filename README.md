@@ -12,8 +12,6 @@ Weather variables were extracted from the [website of KNMI](https://www.knmi.nl/
 ### Feed price
 Feed prices were obtained from the [Agri&Food portal](https://agrimatie.nl/agrimatieprijzen/) of Wageningen University & Research (Dutch)
 
-### Biosecurity score
-The biosecurity questionnaire of AVINED which was used in this project can be found [on their website](https://www.avined.nl/themas/bedrijfsmanagement/bedrijfshygiene) (Dutch).
 
 ## R scripts
 The order of the scripts in this project is:
