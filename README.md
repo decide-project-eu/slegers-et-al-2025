@@ -1,4 +1,4 @@
-# fpl-prediction-models
+# Predicting footpad lesion scores of Dutch broiler flocks using routinely collected data
 Dynamic linear models (DLMs) and random forest models to predict footpad lesion scores of broiler flocks.
 
 ## Data
